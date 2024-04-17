@@ -1,0 +1,108 @@
+.nav {
+    justify-content: flex-end;
+}
+
+h1 {
+    color: #6F42C1;
+    font-weight: bold;
+}
+
+h2 {
+    color: #6F42C1;
+    font-weight: bold;
+    text-align: center;
+}
+
+.lorem {
+    text-align: center;
+}
+
+.nine {
+    color: black;
+}
+
+.case {
+    color: rgba(128, 128, 128, 0.418);
+    margin-left: 40px;
+}
+
+.main {
+    background: #F0ECF9;
+    width: 100%;
+    height: 520px;
+    gap: 0px;
+    border-radius: 0px 0px 300px 0px;
+    opacity: 0px;
+
+}
+
+.line {
+    color: rgb(182, 27, 174);
+}
+
+.elite {
+    list-style-image: url('check_circle.png');
+}
+
+button {
+    width: 200px;
+    height: 30px;
+    border-radius: 30px;
+    background: #6F42C1;
+
+}
+.pre {
+    width: 300px;
+    height: 30px;
+    border-radius: 30px;
+    background: #6F42C1;
+
+}
+
+   h4 {
+    color: #6F42C1;
+    font-weight: bold;
+}
+
+.how {
+    color: #6F42C1;
+    font-weight: bold;
+}
+
+.eli {
+    list-style-image: url('close_24px.png');
+    
+}
+.inline-list{ display: inline-block ; margin-left: 60px;}
+.space{ margin-left: 60px; margin-top: 60px;}
+.ni{ color: black; margin-left: ;}
+    
+
+.card{ width: 500px;}
+.inline-image{ display: inline-block;}
+.submain{width: 100%;
+    height: 875px;
+    top: 3663px;
+    left: 2px;
+    gap: 0px;
+    border-radius: 50px 0px 0px 0px;
+    opacity: 0px;background: #F8F5FC;
+
+    
+}
+.no{list-style-type: none;}
+.yes{ width: 239px;
+    height: 350px;
+    top: 119px;
+    left: 132px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    }
+    @media only screen and (max-width:450px) {
+        
+        .me{ display: none;}
+        .card{ width: 300px;}
+        .hide{ display: none;}
+        
+    }
